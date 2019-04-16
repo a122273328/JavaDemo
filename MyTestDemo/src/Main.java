@@ -27,5 +27,11 @@ public class Main {
             System.out.println("狗不是MyTestClass");
         }
 
+        dog.testFor();
+
+        dog.switchTest();
+
+        PersonClass person = new PersonClass();
+
     }
 }
