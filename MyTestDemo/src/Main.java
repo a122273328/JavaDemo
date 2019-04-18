@@ -32,6 +32,13 @@ public class Main {
         dog.switchTest();
 
         PersonClass person = new PersonClass();
+//        person.money();
+//
+//        person.inputTest();
+//
+//        /*兔子问题*/
+//        person.rabbit();
+        person.flowers();
 
     }
 }
